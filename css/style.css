@@ -1,0 +1,220 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.cards {
+  width: 448px;
+  height: 260px;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  background-color: blue;
+}
+
+.cards-top-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards-top-content > p {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: white;
+}
+
+.card-mid-content {
+  margin-top: 60px;
+}
+
+.card-mid-content > p {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.card-mid-content > h2 {
+  color: white;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 30px;
+}
+
+.card-bot-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-bot-content > h3 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: white;
+}
+
+.cards-red-card {
+  width: 448px;
+  height: 260px;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  background-color: red;
+}
+
+.cards-top-red {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards-top-red > p {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: white;
+}
+
+.card-mid-red {
+  margin-top: 60px;
+}
+
+.card-mid-red > p {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  margin-bottom: 10px;
+}
+.card-mid-red > h2 {
+  color: white;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 30px;
+}
+
+.card-bot-red {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-bot-red > h3 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: white;
+}
+
+.cards-green-card {
+  width: 448px;
+  height: 260px;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  background-color: green;
+}
+
+.cards-top-green {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards-top-green > p {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: white;
+}
+
+.card-mid-green {
+  margin-top: 60px;
+}
+
+.card-mid-green > p {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.card-mid-green > h2 {
+  color: white;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 30px;
+}
+
+.card-bot-green {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-bot-green > h3 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: white;
+}
+
+.dashboard-card-section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.user-profile {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.user-stats__profit-blue {
+  color: blue;
+}
+
+.user-profile__second {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.user-stats__profit-blue-second {
+  color: blue;
+}
+
+.user-card-third {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.user-stats__profit-blue-third {
+  color: blue;
+}
+
+.user-card-fourth {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.user-stats__profit-blue-fourth {
+  color: blue;
+}
